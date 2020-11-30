@@ -1,0 +1,33 @@
+
+
+
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  background-color: rgba(238, 235, 235, 0.945);
+  font-size: 1.6rem;
+  text-align: center;
+  
+
+}
+ul{
+  text-align: justify;
+  margin: 20%;
+}
+
+blockquote {
+  text-align: justify;
+  margin: 20%;
+}
+
+#img-div{
+  background-color:white;
+  margin: 100px;
+  padding: 100px;
+  
+}
+
+#image{
+  width: 100%;
+  object-fit: contain;
+}
